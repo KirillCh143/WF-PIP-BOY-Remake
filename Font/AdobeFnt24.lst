@@ -1,0 +1,107 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cindie2-I
+FamilyName:Cindie 2
+StyleName:I
+FullName:Cindie 2 I
+MenuName:Cindie 2 I
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\kiril\WatchFaceStudio\Pip_Boy\Font\Cindie2-I.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:79400
+FileModTime:1756306322
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,4,Cindie 2 I
+NameArray:0,Win,1,Cindie 2 I
+NameArray:0,Win,16,Cindie 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FixedsysExcelsiorIIIb
+FamilyName:Fixedsys Excelsior 3.01
+StyleName:Regular
+FullName:Fixedsys Excelsior 3.01
+MenuName:Fixedsys Excelsior 3.01
+StyleBits:0
+FamilyNameNative:Fixedsys Excelsior 3.01
+StyleNameNative:Regular
+FullNameNative:Fixedsys Excelsior 3.01 Regular
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Users\kiril\WatchFaceStudio\Pip_Boy\Font\FSEX300.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:575668
+FileModTime:1644026436
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Fixedsys Excelsior 3.01
+NameArray:0,Mac,4,Fixedsys Excelsior 3.01
+NameArray:0,Win,1,Fixedsys Excelsior 3.01
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CallingCode-Regular
+FamilyName:Calling Code
+StyleName:Regular
+FullName:Calling Code Regular
+MenuName:Calling Code
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\kiril\WatchFaceStudio\Pip_Boy\Font\calling-code.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:65529
+FileModTime:1757716077
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calling Code Regular
+NameArray:0,Win,1,Calling Code
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Monofonto-Regular
+FamilyName:Monofonto
+StyleName:Regular
+FullName:Monofonto-Regular
+MenuName:Monofonto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\kiril\WatchFaceStudio\Pip_Boy\Font\monofonto rg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:57320
+FileModTime:1646637976
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Monofonto-Regular
+NameArray:0,Win,1,Monofonto
+NameArray:0,Win,16,Monofonto
+%EndFont
+
