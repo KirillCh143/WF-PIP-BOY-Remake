@@ -3,7 +3,7 @@
 <p align="center">
     <img width="400" src="https://github.com/user-attachments/assets/fa7738ba-2721-4e00-be98-a916fa113636" alt="Material Bread logo">
 </p>
-В репозитории выложены все ассеты, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
+В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
 <h3>Наборы анимаций:</h3> 
 <img width="1610" height="1795" alt="1" src="https://github.com/user-attachments/assets/69f694bd-cfce-456b-8b3b-f318af0beca5" />
