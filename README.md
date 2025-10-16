@@ -1,7 +1,7 @@
 # PIP-BOY Remake watchface
 <h3 align="center">PIP-BOY watchface for Galaxy Watch 8</h3> 
 <p align="center">
-<img  alt="1" src="https://s12.gifyu.com/images/b3bA3.gif" />
+<img alt="1" src="https://s12.gifyu.com/images/b3bA3.gif" />
 </p>
 В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
