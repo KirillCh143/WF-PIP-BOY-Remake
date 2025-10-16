@@ -1,7 +1,7 @@
 # PIP-BOY Remake watchface
 <h3 align="center">PIP-BOY watchface for Galaxy Watch 8</h3> 
 <p align="center">
-    <img width="400" src="https://jumpshare.com/share/IgyafWIpZb1sW2XkQUn5" alt="Material Bread logo">
+    <img width="400" src="https://d3ugki8buwki2s.cloudfront.net/388rs%2Fpreview%2F71885528%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1760647850&Signature=OyqUu5~MD~M5KUIYBdxnBuAicxkcELk3A9K-L0hn5AyRj6zmjKcB97NQHleoN3CL6dW7AlF1si0atKqk9RdwNosNbhXuYAl92bjUP4W0dhB~ilOpeI-u1TOSXrU5-mNEquN7RAanO5TVNGvwkG-i7z0fJnRhNTCDr1jH78hSl5PwONSm53glt7UfnKNkr2wx9HvH3zYrLGFBXjTQ3jfcwcrOkI9guv-28QU5hpvwJDmd1koKb-9NsjzBICeAokGmiewTj95RcJWmSvb88-wUByJRN60d7ylTtzazkl1BSO1R54vflQSKKXFgKYkbTN-XA2aMFy89y3OeaDmcg8SFFA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Material Bread logo">
 </p>
 В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
