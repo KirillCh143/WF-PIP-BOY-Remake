@@ -15,3 +15,5 @@
 <img width="1610" height="552" alt="5" src="https://github.com/user-attachments/assets/04d65621-0bcb-4334-833f-0ec0797f270d" />
 <h3>Always-on:</h3> 
 <img width="1610" height="438" alt="4" src="https://github.com/user-attachments/assets/d8466f00-fc94-4f9d-8ec0-74171c6b2c20" />
+<h3>Режим AM/PM:</h3> 
+<img width="1610" height="552" alt="6" src="https://github.com/user-attachments/assets/0972d48a-284c-4d45-91b5-acca2dfa44c7" />
