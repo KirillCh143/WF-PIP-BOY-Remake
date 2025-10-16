@@ -1,7 +1,7 @@
 # PIP-BOY Remake watchface
 <h3 align="center">PIP-BOY watchface for Galaxy Watch 8</h3> 
 <p align="center">
-    <img width="400" src="https://github.com/user-attachments/assets/fa7738ba-2721-4e00-be98-a916fa113636" alt="Material Bread logo">
+    <img width="400" src="https://jumpshare.com/share/IgyafWIpZb1sW2XkQUn5" alt="Material Bread logo">
 </p>
 В репозитории выложены все ассеты, которые используются в часах, а также сам файл .wfs для тех, кто захочит делать какие либо модификации.
 
